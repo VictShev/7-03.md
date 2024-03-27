@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "coverage": "jest --collectCoverage"
+   "coverage": "jest --coverage"
   },
   "jest": {
     "coverageThreshold": {
@@ -27,8 +27,6 @@
   "author": "omelnikova",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.3.1"
-      
+    "jest": "^27.5.1"
   }
-
 }
